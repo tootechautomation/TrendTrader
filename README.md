@@ -1,8 +1,5 @@
 # TrendTrader
 
-
-# TrendTrader
-
 Trade with confidence!
 
 
