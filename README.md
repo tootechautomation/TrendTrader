@@ -15,7 +15,7 @@ Trade with confidence!
 *     Minimal Application
 *     Smart System to Determine Position and Trend
      
-![alt text](https://github.com/trevorbooneautomation/DevOps_/blob/master/misc/Azure_DevOps.jpg?raw=true)    
+![alt text](https://github.com/trevorbooneautomation/TrendTrader/blob/main/Images/Github_TT.png?raw=true)    
  
 # About Me
  My Name is Trevor - I am an automater and network engineer.
