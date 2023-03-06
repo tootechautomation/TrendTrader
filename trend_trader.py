@@ -1,8 +1,7 @@
 # TrendTrader Cross Platform Support
 from datetime import time
 import pyautogui
-from python_imagesearch.imagesearch import imagesearch, imagesearch_loop, imagesearch_region_loop, imagesearcharea, \
-    click_image, region_grabber, r
+from python_imagesearch.imagesearch import imagesearcharea, click_image
 
 # Global Variables
 global xPosition
@@ -13,27 +12,27 @@ global broker_selection
 broker_selection = "TOS"
 
 # IMAGES To Search for Trend Change on TOS and Profit/StopLoss
-Long_Image = "Images\TOS\Long.png"
-Short_Image = "Images\TOS\Short.png"
-Long_Image_1 = "Images\TOS\Long_1.png"
-Short_Image_1 = "Images\TOS\Short_1.png"
-Profits_Image = "Images\TOS\PROFITS.png"
-Stoploss_Image = "Images\TOS\STOPLOSS.png"
+Long_Image = "Images/TOS/Long.png"
+Short_Image = "Images/TOS/Short.png"
+Long_Image_1 = "Images/TOS/Long_1.png"
+Short_Image_1 = "Images/TOS/Short_1.png"
+Profits_Image = "Images/TOS/PROFITS.png"
+Stoploss_Image = "Images/TOS/STOPLOSS.png"
 
 # IMAGES FOR TOS POSITION CHANGES
-BUY_Image_TOS = "Images\TOS\TOS_BUY_ASK.png"
-SELL_Image_TOS = "Images\TOS\TOS_SELL_BID.png"
-Reverse_Image_TOS = "Images\TOS\TOS_Reverse.png"
-Flatten_Image_TOS = "Images\TOS\POS_SHORT_CLOSE.png"
-TOS_POS_LONG = "Images\TOS\TOS_POS_LONG.png"
-TOS_POS_SHORT = "Images\TOS\TOS_POS_SHORT.png"
-TOS_POS_FLAT = "Images\TOS\TOS_POS_FLAT.png"
-TOS_Negative_Position = "Images\TOS\Went_Negative.png"
-TOS_PRE_POST_GREEN_X = "Images\TOS\pre-post-green-x.png"
-TOS_PRE_POST_RED_X = "Images\TOS\pre-post-red-x.png"
+BUY_Image_TOS = "Images/TOS/TOS_BUY_ASK.png"
+SELL_Image_TOS = "Images/TOS/TOS_SELL_BID.png"
+Reverse_Image_TOS = "Images/TOS/TOS_Reverse.png"
+Flatten_Image_TOS = "Images/TOS/POS_SHORT_CLOSE.png"
+TOS_POS_LONG = "Images/TOS/TOS_POS_LONG.png"
+TOS_POS_SHORT = "Images/TOS/TOS_POS_SHORT.png"
+TOS_POS_FLAT = "Images/TOS/TOS_POS_FLAT.png"
+TOS_Negative_Position = "Images/TOS/Went_Negative.png"
+TOS_PRE_POST_GREEN_X = "Images/TOS/pre-post-green-x.png"
+TOS_PRE_POST_RED_X = "Images/TOS/pre-post-red-x.png"
 
 # IMAGE FOR APP
-FTT_Image = "Images\FollowTheTrend\FTT.png"
+FTT_Image = "Images/FollowTheTrend/FTT.png"
 
 # Save Configuration File
 File_Config = "TrendTrader.conf"
@@ -78,7 +77,6 @@ def scan_long_short():
         return m
 
 
-
 def scan_for_position():
     ## TOS scans
     pos = imagesearcharea(TOS_PRE_POST_GREEN_X, 0, 0, 1280, 1024)
@@ -108,21 +106,17 @@ def scan_for_position():
 
 
 def send_a_trade():
-    if(broker_selection == "TOS"):
+    if broker_selection == "TOS":
         trade_tos()
 
+
 def trade_tos():
-    if xPosition == 0 and xDirection ==2:
+    if xPosition == 0 and xDirection == 2:
         automated_trade(BUY_Image_TOS, "POSITION - BUY / LONG")
     elif xPosition == 0 and xDirection == 1:
         automated_trade(SELL_Image_TOS, "POSITION - SELL / SHORT")
     elif xPosition == 1 and xDirection == 2 or xPosition == 2 and xDirection == 1:
         automated_trade(Reverse_Image_TOS, "POSITION - REVERSED")
-
-# def trade_ib():
-
-
-# def trade_ls():
 
 
 def automated_trade(position, message):
@@ -130,7 +124,6 @@ def automated_trade(position, message):
 
     pos = imagesearcharea(position, 0, 0, 1280, 1024)
     if pos[0] != -1:
-        mouse_position = pyautogui.position()
         click_image(position, pos, "left", 0, offset=0)
 
     pyautogui.moveTo(mouse_position[0], mouse_position[1])
