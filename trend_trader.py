@@ -12,27 +12,27 @@ global broker_selection
 broker_selection = "TOS"
 
 # IMAGES To Search for Trend Change on TOS and Profit/StopLoss
-Long_Image = "Images/TOS/Long.png"
-Short_Image = "Images/TOS/Short.png"
-Long_Image_1 = "Images/TOS/Long_1.png"
-Short_Image_1 = "Images/TOS/Short_1.png"
-Profits_Image = "Images/TOS/PROFITS.png"
-Stoploss_Image = "Images/TOS/STOPLOSS.png"
+Long_Image = "./Images/TOS/Long.png"
+Short_Image = "./Images/TOS/Short.png"
+Long_Image_1 = "./Images/TOS/Long_1.png"
+Short_Image_1 = "./Images/TOS/Short_1.png"
+Profits_Image = "./Images/TOS/PROFITS.png"
+Stoploss_Image = "./Images/TOS/STOPLOSS.png"
 
 # IMAGES FOR TOS POSITION CHANGES
-BUY_Image_TOS = "Images/TOS/TOS_BUY_ASK.png"
-SELL_Image_TOS = "Images/TOS/TOS_SELL_BID.png"
-Reverse_Image_TOS = "Images/TOS/TOS_Reverse.png"
-Flatten_Image_TOS = "Images/TOS/POS_SHORT_CLOSE.png"
-TOS_POS_LONG = "Images/TOS/TOS_POS_LONG.png"
-TOS_POS_SHORT = "Images/TOS/TOS_POS_SHORT.png"
-TOS_POS_FLAT = "Images/TOS/TOS_POS_FLAT.png"
-TOS_Negative_Position = "Images/TOS/Went_Negative.png"
-TOS_PRE_POST_GREEN_X = "Images/TOS/pre-post-green-x.png"
-TOS_PRE_POST_RED_X = "Images/TOS/pre-post-red-x.png"
+BUY_Image_TOS = "./Images/TOS/TOS_BUY_ASK.png"
+SELL_Image_TOS = "./Images/TOS/TOS_SELL_BID.png"
+Reverse_Image_TOS = "./Images/TOS/TOS_Reverse.png"
+Flatten_Image_TOS = "./Images/TOS/POS_SHORT_CLOSE.png"
+TOS_POS_LONG = "./Images/TOS/TOS_POS_LONG.png"
+TOS_POS_SHORT = "./Images/TOS/TOS_POS_SHORT.png"
+TOS_POS_FLAT = "./Images/TOS/TOS_POS_FLAT.png"
+TOS_Negative_Position = "./Images/TOS/Went_Negative.png"
+TOS_PRE_POST_GREEN_X = "./Images/TOS/pre-post-green-x.png"
+TOS_PRE_POST_RED_X = "./Images/TOS/pre-post-red-x.png"
 
 # IMAGE FOR APP
-FTT_Image = "Images/FollowTheTrend/FTT.png"
+FTT_Image = "./Images/FollowTheTrend/FTT.png"
 
 # Save Configuration File
 File_Config = "TrendTrader.conf"
