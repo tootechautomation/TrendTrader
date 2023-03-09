@@ -18,13 +18,5 @@ Trade with confidence!
 ![alt text](https://github.com/trevorbooneautomation/TrendTrader/blob/main/Images/Github_TT.png?raw=true)    
  
 # About Me
- My Name is Trevor - I am an automater and network engineer.
+ Tootech Automation - I am an automater and network engineer and Stock/ETF/Future Trader.
  
-###  1. Certifications
-*    a. Cisco CCNP - Route/Switch
-*    b. Network+
-*    c: A+
-###  2. Studying
-*    a. Cisco CCNP - Route/Switch
-*    b. CISSP
-*    c. Python
