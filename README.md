@@ -20,6 +20,14 @@ Trade with confidence!
      
 ![alt text](https://raw.githubusercontent.com/tootechautomation/TrendTrader/main/Images/App1.png?token=GHSAT0AAAAAACDDRDSRYYSAAG5LES2TUR2EZDPUOUA)
 
+
+	```
+{
+  "firstName": "John",
+  "lastName": "Smith",
+  "age": 25
+}
+```
  
 # About Me
  Tootech Automation - I am an automater and network engineer and Stock/ETF/Future Trader.
