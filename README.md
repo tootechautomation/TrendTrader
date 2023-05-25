@@ -18,7 +18,7 @@ Trade with confidence!
 *     Smart System to Determine Position and Trend
 *     Auto Login TOS, restart at 10PM avoiding lock out period | Continuous Running
      
-![alt text](https://raw.githubusercontent.com/tootechautomation/TrendTrader/main/Images/App1.png?token=GHSAT0AAAAAACDDRDSRMG7LBLOKHUSDIBXIZDPUKXA)
+![alt text](https://raw.githubusercontent.com/tootechautomation/TrendTrader/main/Images/App1.png?token=GHSAT0AAAAAACDDRDSRKJO2I6GBH3KJMQB2ZDPUNLA)
 
  
 # About Me
