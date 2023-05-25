@@ -16,8 +16,7 @@ Trade with confidence!
 *     End User Friendly
 *     Minimal Application
 *     Smart System to Determine Position and Trend
-*     Launch TOS with Auto Login / Reload Option
-     . Auto Login to TOS then restart at 10PM to avoid exceeding lock out period
+*     Launch TOS with Auto Login | Auto Login to TOS then restart at 10PM to avoid exceeding lock out period | Continuous Running
      
 ![alt text](https://github.com/trevorbooneautomation/TrendTrader/blob/main/Images/Github_TT.png?raw=true)    
  
