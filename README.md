@@ -16,9 +16,10 @@ Trade with confidence!
 *     End User Friendly
 *     Minimal Application
 *     Smart System to Determine Position and Trend
-*     Launch TOS with Auto Login | Auto Login TOS, restart at 10PM avoiding lock out period | Continuous Running
+*     Auto Login TOS, restart at 10PM avoiding lock out period | Continuous Running
      
-![alt text](https://github.com/trevorbooneautomation/TrendTrader/blob/main/Images/Github_TT.png?raw=true)    
+![alt text](https://raw.githubusercontent.com/tootechautomation/TrendTrader/main/Images/App1.png?raw=true) 
+
  
 # About Me
  Tootech Automation - I am an automater and network engineer and Stock/ETF/Future Trader.
