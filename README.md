@@ -21,9 +21,7 @@ Trade with confidence!
 ![alt text](https://raw.githubusercontent.com/tootechautomation/TrendTrader/main/Images/App1.png?token=GHSAT0AAAAAACDDRDSRYYSAAG5LES2TUR2EZDPUOUA)
 
 
-Here's a sentence with a footnote. [^1]
-
-[^1]: This is the footnote.
+I need to highlight these ==very important words==.
  
 # About Me
  Tootech Automation - I am an automater and network engineer and Stock/ETF/Future Trader.
