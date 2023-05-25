@@ -8,7 +8,7 @@ Trade with confidence!
 ### 1. TrendTrader v2023
 #### Automated Application to Trade Stocks, ETFs, Futures Automatically Using Think Or Swim, Interactive Brokers, Lightspeed
 ##### Features:
-*     Configure Profit Dollar Amount Goal To Automatically Close Position And **Stop Application** From Running
+*     Configure Profit Dollar Amount Goal To Automatically Close Position And ***Stop Application*** From Running
 *     Display **Trade Data**, **Profit and Loss Data**, and **Log It**
 *     Wait **Before** or **After** Trade **Execution**
 *     Fast Execution, No Emotional Aspect, Removes Hesitation
