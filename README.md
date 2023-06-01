@@ -19,6 +19,16 @@ Trade with confidence!
 *     Auto Login TOS, restart at 10PM avoiding lock out period | Continuous Running
      
 ![App1](https://github.com/tootechautomation/TrendTrader/assets/50243547/e1a772d8-3a7a-4c10-ba49-c7934b1e670b)
+
+Results From Backtesting
+
+
+| Date        | Profits          | Trade Type  |
+| ------------- |:-------------:| -----:|
+| 2/1/2023      | +$3500 |  Profit Stop |
+| 2/2/2023      | +$1660      |   Full Day |
+| 2/3/2023 |  +$1140     |    Full Day |
+
  
 # About Me
  Tootech Automation - I am an automater and network engineer and Stock/ETF/Future Trader.
