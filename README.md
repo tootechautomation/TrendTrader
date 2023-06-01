@@ -18,8 +18,9 @@ Trade with confidence!
 *     Smart System to Determine Position and Trend
 *     Auto Login TOS, restart at 10PM avoiding lock out period | Continuous Running
      
-![alt text](https://raw.githubusercontent.com/tootechautomation/TrendTrader/main/Images/App1.png?token=GHSAT0AAAAAACDDRDSRYYSAAG5LES2TUR2EZDPUOUA)
+![App1](https://github.com/tootechautomation/TrendTrader/assets/50243547/e1a772d8-3a7a-4c10-ba49-c7934b1e670b)
  
 # About Me
  Tootech Automation - I am an automater and network engineer and Stock/ETF/Future Trader.
  
+
