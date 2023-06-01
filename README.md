@@ -39,7 +39,7 @@ Trade with confidence!
 | 2/10/2023  | +$1460  |  Full Day    |
 | 2/11/2023  | $0      |  Weekend     |
 | 2/12/2023  | $0      |  Weekend     |
-| 2/13/2023  | -$1920  |  Full Day    |
+| 2/13/2023  | -$640   |  Full Day    |
 | 2/14/2023  | +$2120  |  Full Day    |
 | 2/15/2023  | -$480   |  Full Day    |
 | 2/16/2023  | -$960   |  Full Day    |
@@ -53,9 +53,9 @@ Trade with confidence!
 | 2/24/2023  | +$120   |  Full Day    |
 | 2/25/2023  | +$0     |  Full Day    |
 | 2/26/2023  | +$0     |  Full Day    |
-| 2/27/2023  | +$0     |  Full Day    |
-| 2/28/2023  | +$0     |  Full Day    |
-| Total      | +$10,820|  Month       |
+| 2/27/2023  | -$1540  |  Full Day    |
+| 2/28/2023  | -$380   |  Full Day    |
+| Total      | +$10,180|  Month       |
 
  
 # About Me
