@@ -19,7 +19,8 @@ Trade with confidence!
 *     Auto Login TOS, restart at 10PM avoiding lock out period | Continuous Running
      
 ![App1](https://github.com/tootechautomation/TrendTrader/assets/50243547/3ff6f30d-61ad-4fb7-91d2-058a8aff85f7)
-![App2](https://github.com/tootechautomation/TrendTrader/assets/50243547/a83b1b4d-ab36-4b10-85b6-188c337505e6)
+![App2](https://github.com/tootechautomation/TrendTrader/assets/50243547/d9ca7b10-8d8c-486b-bbd7-6f35ce232384)
+
 
 
 # Results From Backtesting
