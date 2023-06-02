@@ -27,7 +27,7 @@ Trade with confidence!
 
 | Date       | Profits | Trade Type   |
 | ---------- |:-------:| ------------:|
-| 2/1/2023   | +$3500  |  Profit Stop |
+| 2/1/2023   | +$4300  |  Full Day    |
 | 2/2/2023   | +$1660  |  Full Day    |
 | 2/3/2023   | +$1140  |  Full Day    |
 | 2/4/2023   | $0      |  Weekend     |
@@ -55,7 +55,7 @@ Trade with confidence!
 | 2/26/2023  | +$0     |  Full Day    |
 | 2/27/2023  | -$1540  |  Full Day    |
 | 2/28/2023  | -$380   |  Full Day    |
-| Total      | +$11,960|  Month       |
+| Total      | +$12,760|  Month       |
 
  
 # About Me
