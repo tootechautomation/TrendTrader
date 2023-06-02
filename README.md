@@ -1,3 +1,5 @@
+![badge](https://github.com/tootechautomation/TrendTrader/assets/50243547/961b395c-ffbe-480b-b5d8-dc80babeb42f)
+
 # TrendTrader
 
 Trade with confidence!
