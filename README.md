@@ -3,6 +3,9 @@
 # TrendTrader
 
 Trade with confidence!
+- OS Supported: Windows
+
+- Note: Futures Trading - Minimally tested as TOS Backtesting has very poor experience.
 
 
 # Current Project
