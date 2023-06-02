@@ -1,4 +1,4 @@
-![badge](https://github.com/tootechautomation/TrendTrader/assets/50243547/961b395c-ffbe-480b-b5d8-dc80babeb42f)
+![badge](https://github.com/tootechautomation/TrendTrader/assets/50243547/f75ab3ad-e56e-4cf2-8886-e548256608b6)
 
 # TrendTrader
 
