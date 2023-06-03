@@ -69,4 +69,15 @@ Trade with confidence!
 # About Me
  Tootech Automation - I am an automater and network engineer and Stock/ETF/Future Trader.
  
+ 
+ 
+ 
+ 
+ 
+ # Notes and Troubleshooting
+ 
+ 1. Be sure to add your equity symbol into the indicator
+![Ind_Add](https://github.com/tootechautomation/TrendTrader/assets/50243547/d46e09b5-d600-43ac-b7ab-3352e9b0e96b)
+
+ 
 
