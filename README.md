@@ -15,8 +15,8 @@ Trade with confidence!
 - OS Supported: Windows
 
 - Note: Futures Trading - Minimally tested as TOS Backtesting has very poor experience.
-- Note: Primary ETF: SOXL or SOXS
-- Note: Primary FUTURE Contract: /TN
+- Note: Primary ETF: <a href="https://www.direxion.com/product/daily-semiconductor-bull-bear-3x-etfs">SOXL or SOXS</a>
+- Note: Primary FUTURE Contract: <a href="https://www.cmegroup.com/markets/interest-rates/us-treasury/ultra-10-year-us-treasury-note.contractSpecs.html">/TN</a>
 
 
 # Current Project
