@@ -45,6 +45,16 @@ Trade with confidence!
 ![App2](https://github.com/tootechautomation/TrendTrader/assets/50243547/932cd406-bed0-4c60-a204-1583f987dd8c)
 
 
+# Configuration
+Backtest speed: 3x
+ETF: SOXL or SOXS
+ - Aggregation Period (ETF/STOCK): 4 Minute
+ - Backtest Shares (Stock/ETF): 2000
+FUTURE: /TN
+ - Aggregation Period (FUTURE): 4 or 5 Minute
+ - Backtest Shares (Futures): 4
+
+
 
 # Results From Backtesting
 
