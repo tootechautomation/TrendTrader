@@ -1,6 +1,10 @@
 ![rumble-full-logo-v4-dark](https://github.com/tootechautomation/TrendTrader/assets/50243547/4777a5c4-f796-4523-b665-1b06970cab18)
 
-<a href="https://rumble.com/user/FollowTheTrend" target="_Blank">FollowTheTrend</a>                  <a href="https://discord.gg/24Ts7mZxnS">Discord</a>
+<a href="https://rumble.com/user/FollowTheTrend" target="_Blank">FollowTheTrend</a>                  
+
+![discord](https://github.com/tootechautomation/TrendTrader/assets/50243547/b4171a8c-eb59-4faa-85ce-d4b9a630f835)
+
+<a href="https://discord.gg/24Ts7mZxnS">Discord</a>
 
 ***
 
