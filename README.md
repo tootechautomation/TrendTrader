@@ -46,13 +46,16 @@ Trade with confidence!
 
 
 # Configuration
-Backtest speed: 3x
-ETF: SOXL or SOXS
+
+
+###ETF: SOXL or SOXS
  - Aggregation Period (ETF/STOCK): 4 Minute
  - Backtest Shares (Stock/ETF): 2000
 FUTURE: /TN
  - Aggregation Period (FUTURE): 4 or 5 Minute
  - Backtest Shares (Futures): 4
+
+Backtest speed: 3x
 
 
 
