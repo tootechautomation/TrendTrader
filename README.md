@@ -15,6 +15,8 @@ Trade with confidence!
 - OS Supported: Windows
 
 - Note: Futures Trading - Minimally tested as TOS Backtesting has very poor experience.
+- Note: Primary ETF: SOXL or SOXS
+- Note: Primary FUTURE Contract: /TN
 
 
 # Current Project
