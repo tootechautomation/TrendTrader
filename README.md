@@ -2,9 +2,9 @@
 
 <a href="https://rumble.com/user/FollowTheTrend" target="_Blank">FollowTheTrend</a>                  
 
-![discord](https://github.com/tootechautomation/TrendTrader/assets/50243547/b4171a8c-eb59-4faa-85ce-d4b9a630f835)
 
-<a href="https://discord.gg/24Ts7mZxnS">Discord</a>
+
+Discord Channel: <a href="https://discord.gg/24Ts7mZxnS">Discord</a>
 
 ***
 
