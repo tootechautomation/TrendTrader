@@ -41,8 +41,7 @@ Trade with confidence!
 *     Smart System to Determine Position and Trend
 *     Auto Login TOS, restart at 10PM avoiding lock out period | Continuous Running
      
-![App1](https://github.com/tootechautomation/TrendTrader/assets/50243547/66e13cf1-1cd1-444a-87ac-609c40ee688d)
-![App2](https://github.com/tootechautomation/TrendTrader/assets/50243547/932cd406-bed0-4c60-a204-1583f987dd8c)
+![App1](https://github.com/tootechautomation/TrendTrader/assets/50243547/66e13cf1-1cd1-444a-87ac-609c40ee688d)![App2](https://github.com/tootechautomation/TrendTrader/assets/50243547/932cd406-bed0-4c60-a204-1583f987dd8c)
 
 
 
