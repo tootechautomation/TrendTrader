@@ -1,4 +1,11 @@
-![badge](https://github.com/tootechautomation/TrendTrader/assets/50243547/f75ab3ad-e56e-4cf2-8886-e548256608b6)![rumble-full-logo-v4-dark](https://github.com/tootechautomation/TrendTrader/assets/50243547/4777a5c4-f796-4523-b665-1b06970cab18)<a href="https://rumble.com/user/FollowTheTrend">FollowTheTrend</a>
+![rumble-full-logo-v4-dark](https://github.com/tootechautomation/TrendTrader/assets/50243547/4777a5c4-f796-4523-b665-1b06970cab18)<a href="https://rumble.com/user/FollowTheTrend">FollowTheTrend</a>
+
+***
+
+![badge](https://github.com/tootechautomation/TrendTrader/assets/50243547/f75ab3ad-e56e-4cf2-8886-e548256608b6)
+
+***
+
 
 # TrendTrader
 
