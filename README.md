@@ -19,6 +19,9 @@ Trade with confidence!
 - Note: Primary FUTURE Contract: <a href="https://www.cmegroup.com/markets/interest-rates/us-treasury/ultra-10-year-us-treasury-note.contractSpecs.html">/TN</a>
 
 
+- Note: DO NOT EXPECT ALL EQUITIES TO WORK, TEST TEST TEST!
+
+
 # Current Project
 
 ### TrendTrader v2023
