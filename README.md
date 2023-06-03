@@ -1,10 +1,10 @@
 ![rumble-full-logo-v4-dark](https://github.com/tootechautomation/TrendTrader/assets/50243547/4777a5c4-f796-4523-b665-1b06970cab18)
 
-<a href="https://rumble.com/user/FollowTheTrend" target="_Blank">FollowTheTrend</a>                  
+Rumble: <a href="https://rumble.com/user/FollowTheTrend" target="_Blank">FollowTheTrend</a>                  
 
 
 
-Discord Channel: <a href="https://discord.gg/24Ts7mZxnS">Discord</a>
+Discord: <a href="https://discord.gg/24Ts7mZxnS">Discord</a>
 
 ***
 
