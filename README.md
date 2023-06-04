@@ -112,33 +112,30 @@ Backtest speed: 3x
 
 | Date       | Profits | Trade Type   |
 | ---------- |:-------:| ------------:|
-| 4/1/2023   | $0      |  Full Day    |
-| 4/2/2023   | $0      |  Full Day    |
 | 4/3/2023   | $0      |  Full Day    |
+| 4/4/2023   | $0      |  Full Day    |
+| 4/5/2023   | $0      |  Full Day    |
 | 4/6/2023   | $0      |  Full Day    |
 | 4/7/2023   | $0      |  Full Day    |
-| 4/8/2023   | $0      |  Full Day    |
-| 4/9/2023   | $0      |  Full Day    |
 | 4/10/2023  | $0      |  Full Day    |
+| 4/11/2023  | $0      |  Full Day    |
+| 4/12/2023  | $0      |  Full Day    |
 | 4/13/2023  | $0      |  Full Day    |
 | 4/14/2023  | $0      |  Full Day    |
-| 4/15/2023  | $0      |  Full Day    |
-| 4/16/2023  | $0      |  Full Day    |
 | 4/17/2023  | $0      |  Full Day    |
+| 4/18/2023  | $0      |  Full Day    |
+| 4/19/2023  | $0      |  Full Day    |
+| 4/20/2023  | $0      |  Full Day    |
 | 4/21/2023  | $0      |  Full Day    |
-| 4/22/2023  | $0      |  Full Day    |
-| 4/23/2023  | $0      |  Full Day    |
 | 4/24/2023  | $0      |  Full Day    |
+| 4/25/2023  | $0      |  Full Day    |
+| 4/26/2023  | $0      |  Full Day    |
 | 4/27/2023  | $0      |  Full Day    |
 | 4/28/2023  | $0      |  Full Day    |
-| 4/29/2023  | $0      |  Full Day    |
-| 4/30/2023  | $0      |  Full Day    |
-| 4/31/2023  | $0      |  Full Day    |
 | Total      | $0      |  Month       |
 
-| GrandTotal | | |
-| ---------- |:-------:| ------------:|
-| Total      | $0      |         |
+| GrandTotal | $0 | 
+| ---------- |:-------:|
 
  
 # About Me
