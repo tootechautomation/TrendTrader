@@ -134,7 +134,7 @@ Backtest speed: 3x
 | 4/28/2023  | $0      |  Full Day    |
 | Total      | $0      |  Month       |
 
-| GrandTotal | $0 | 
+| GrandTotal | +$12,760 | 
 | ---------- |:-------:|
 
  
