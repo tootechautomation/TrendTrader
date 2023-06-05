@@ -32,6 +32,7 @@ Trade with confidence!
 #### Automated Application to Trade Stocks, ETFs, Futures Automatically Using Think Or Swim, Interactive Brokers, Lightspeed
 
 #### <a href="https://rumble.com/v2rqpss-trendtrader-automated-trading-demo.html">Getting Started Demo</a>
+#### <a href="https://rumble.com/v2rnuq8-trendtrader-automatic-trading-features.html">Features</a>
 
 ##### Features:
 *     Configure Profit Dollar Amount Goal To Automatically Close Position And Stop Application From Running
