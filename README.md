@@ -80,7 +80,7 @@ Backtest speed: 3x
 | 2/15/2023  | -$480   |  Full Day    |
 | 2/16/2023  | -$960   |  Full Day    |
 | 2/17/2023  | -$120   |  Full Day    |
-| 2/21/2023  | +$340  |  Full Day    |
+| 2/21/2023  | +$340   |  Full Day    |
 | 2/22/2023  | +$620   |  Full Day    |
 | 2/23/2023  | +$160   |  Full Day    |
 | 2/24/2023  | +$120   |  Full Day    |
@@ -98,7 +98,7 @@ Backtest speed: 3x
 | 3/8/2023   | -$1000  |  Full Day    |
 | 3/9/2023   | -$1660  |  Full Day    |
 | 3/10/2023  | +$1660  |  Full Day    |
-| 3/13/2023  | $0      |  Full Day    |
+| 3/13/2023  | -$1520  |  Full Day    |
 | 3/14/2023  | +$60    |  Full Day    |
 | 3/15/2023  | -$1080  |  Full Day    |
 | 3/16/2023  | +$1320  |  Full Day    |
@@ -108,12 +108,12 @@ Backtest speed: 3x
 | 3/22/2023  | +$1920  |  Full Day    |
 | 3/23/2023  | +$3780  |  Full Day    |
 | 3/24/2023  | -$400   |  Full Day    |
-| 3/27/2023  | +$2460  |  Full Day    |
-| 3/28/2023  | -$180   |  Full Day    |
-| 3/29/2023  | +$700   |  Full Day    |
+| 3/27/2023  | +$2720  |  Full Day    |
+| 3/28/2023  | +$380   |  Full Day    |
+| 3/29/2023  | +$1200  |  Full Day    |
 | 3/30/2023  | $0      |  Full Day    |
 | 3/31/2023  | $0      |  Full Day    |
-| Total      | $9,260  |  Month       |
+| Total      | $9,060  |  Month       |
 
 | Date       | Profits | Trade Type   |
 | ---------- |:-------:| ------------:|
@@ -139,7 +139,7 @@ Backtest speed: 3x
 | 4/28/2023  | $0      |  Full Day    |
 | Total      | $0      |  Month       |
 
-| GrandTotal | $22,020 | 
+| GrandTotal | $21,780 | 
 | ---------- |:-------:|
 
  
