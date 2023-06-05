@@ -87,11 +87,11 @@ Backtest speed: 3x
 | 2/27/2023  | -$1540  |  Full Day    |   | 3/24/2023  | -$400   |  Full Day    |
 | 2/28/2023  | -$380   |  Full Day    |   | 3/27/2023  | +$2720  |  Full Day    |
 |            |         |              |   | 3/28/2023  | +$380   |  Full Day    |
-|            |         |              |   | 3/30/2023  | $0      |  Full Day    |
-|            |         |              |   | 3/31/2023  | $0      |  Full Day    |
-| Total      | +$12,760|  Month       |   | Total      | $8,060  |  Month       |
+|            |         |              |   | 3/30/2023  | +$1200  |  Full Day    |
+|            |         |              |   | 3/31/2023  | +$760   |  Full Day    |
+| Total      | +$12,760|  Month       |   | Total      | $8,280  |  Month       |
 
-| GrandTotal | $20,780 | 
+| GrandTotal | $21,040 | 
 | ---------- |:-------:|
 
  
