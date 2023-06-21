@@ -43,7 +43,7 @@ Trade with confidence!
 *     Minimal Application
 *     Smart System to Determine Position and Trend
 *     Auto Login TOS, restart at 10PM avoiding lock out period | Continuous Running
-*     Backtesting Auto Start, Backtesting Auto Open Market Period, Auto Reset, Auto Switch Days For Fast Test
+*     Backtest: Auto Start, Auto Open Market Period, Auto Reset, Auto Switch Days
 
 # App
 ![App3](https://github.com/tootechautomation/TrendTrader/assets/50243547/da5a4ba6-c385-482d-a866-da80a68137e8)
