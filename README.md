@@ -38,7 +38,7 @@ Trade with confidence!
 *     Display Trade Data, Profit and Loss Data, and Log It
 *     Wait Before or After Trade Execution
 *     Fast Execution, No Emotional Aspect, Removes Hesitation
-*     Multiple Broker Support
+*     Think or Swim Platform Support
 *     End User Friendly
 *     Minimal Application
 *     Smart System to Determine Position and Trend
