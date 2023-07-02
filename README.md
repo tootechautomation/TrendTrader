@@ -62,14 +62,14 @@ Trade with confidence!
 
 Backtest speed: 3x
 
-
+- ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) `#f03c15`
 
 # Results From Backtesting
 
 
 | Feb        | Profits | Trade Type   |   | Mar        | Profits | Trade Type   |   | Apr        | Profits | Trade Type   |   |
 | ---------- |:-------:|:------------:|:-:|:----------:|:-------:|:------------:|:-:|:----------:|:-------:|:------------:| -:|
-| 2/1/23     | ![#f03c15] +$4300  |  Full Day    |   | 3/1/23     | +$220   |  Full Day    |   | 4/3/23     | $0      |  Full Day    |   |
+| 2/1/23     | +$4300  |  Full Day    |   | 3/1/23     | +$220   |  Full Day    |   | 4/3/23     | $0      |  Full Day    |   |
 | 2/2/23     | +$1660  |  Full Day    |   | 3/2/23     | +$1040  |  Full Day    |   | 4/4/23     | $0      |  Full Day    |   |
 | 2/3/23     | +$1140  |  Full Day    |   | 3/3/23     | -$1000  |  Partial Day |   | 4/5/23     | $0      |  Full Day    |   |
 | 2/6/23     | -$240   |  Full Day    |   | 3/6/23     | +$560   |  Full Day    |   | 4/6/23     | $0      |  Full Day    |   |
