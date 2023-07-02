@@ -72,7 +72,7 @@ Backtest speed: 3x
 | 2/1/23     | +$4300  |  Full Day    |   | 3/1/23     | +$220   |  Full Day    |   | 4/3/23     | $0      |  Full Day    |   |
 | 2/2/23     | +$1660  |  Full Day    |   | 3/2/23     | +$1040  |  Full Day    |   | 4/4/23     | $0      |  Full Day    |   |
 | 2/3/23     | +$1140  |  Full Day    |   | 3/3/23     | -$1000  |  Partial Day |   | 4/5/23     | $0      |  Full Day    |   |
-| 2/6/23     | ![#FF0000](https://placehold.co/15x15/ff0000/ff0000.png) `-$240`   |  Full Day    |   | 3/6/23     | +$560   |  Full Day    |   | 4/6/23     | $0      |  Full Day    |   |
+| 2/6/23     | -$240   |  Full Day    |   | 3/6/23     | +$560   |  Full Day    |   | 4/6/23     | $0      |  Full Day    |   |
 | 2/7/23     | +$4500  |  Full Day    |   | 3/7/23     | +$320   |  Full Day    |   | 4/7/23     | $0      |  Full Day    |   |
 | 2/8/23     | -$640   |  Full Day    |   | 3/8/23     | -$1000  |  Full Day    |   | 4/10/23    | $0      |  Full Day    |   |
 | 2/9/23     | +$1340  |  Full Day    |   | 3/9/23     | -$1660  |  Full Day    |   | 4/11/23    | $0      |  Full Day    |   |
