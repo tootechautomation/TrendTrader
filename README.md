@@ -62,7 +62,7 @@ Trade with confidence!
 
 Backtest speed: 3x
 
-- ![#f03c15] `#f03c15`
+- ![#f03c15]`#f03c15`
 
 # Results From Backtesting
 
