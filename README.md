@@ -62,7 +62,6 @@ Trade with confidence!
 
 Backtest speed: 3x
 
-- ![#FF0000](https://placehold.co/15x15/ff0000/ff0000.png)`#f03c15`
 
 # Results From Backtesting
 
