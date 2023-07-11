@@ -13,7 +13,7 @@ Discord: <a href="https://discord.gg/24Ts7mZxnS">Discord</a>
 ***
 
 
-#### <a href="[https://rumble.com/v2rqpss-trendtrader-automated-trading-demo.html](https://github.com/tootechautomation/TrendTrader/releases/tag/TrendTrader_2023_R1)">New Pre-Release (TOS Specific, working towards optimization)</a>
+#### <a href="https://github.com/tootechautomation/TrendTrader/releases/tag/TrendTrader_2023_R1">[        New Pre-Release (TOS Specific, working towards optimization)       ]</a>
 
 # TrendTrader
 
