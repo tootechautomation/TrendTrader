@@ -9,10 +9,11 @@ Discord: <a href="https://discord.gg/24Ts7mZxnS">Discord</a>
 ***
 
 ![badge](https://github.com/tootechautomation/TrendTrader/assets/50243547/f75ab3ad-e56e-4cf2-8886-e548256608b6)
-New Pre-Release (TOS Specific, working towards optimization): https://github.com/tootechautomation/TrendTrader/releases/tag/TrendTrader_2023_R1
 
 ***
 
+
+New Pre-Release (TOS Specific, working towards optimization): https://github.com/tootechautomation/TrendTrader/releases/tag/TrendTrader_2023_R1
 
 # TrendTrader
 
